@@ -1,0 +1,6 @@
+[project]
+name = LektorTest
+
+[servers.ghpages]
+name = Travis-CI
+target = ghpages+https://HanInfinity/Lektor-Travis-CI-Deploy
